@@ -6,7 +6,6 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-
 public class Boj_12852 {
     static class Node{
         int cur, count;
